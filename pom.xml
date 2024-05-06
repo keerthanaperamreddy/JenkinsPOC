@@ -35,7 +35,7 @@
 			         <muleVersion>${app.runtime}</muleVersion> 
 			         <username>${username}</username> 
 			         <password>${password}</password> 
-			         <applicationName>${project.artifactId}</applicationName> 
+			         <applicationName>jenkins-poc-api</applicationName> 
 			         <environment>DEV</environment> 
 			         <workerType>${workerType}</workerType> 
 			         <workers>1</workers> 
